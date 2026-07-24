@@ -17,6 +17,7 @@
 - [[docs/代理快速配置指南]]：Sing-box 快速部署
 - [[docs/无头主机显示修复]]：Dummy Driver 配置
 - [[docs/Hermes-笔记管理最佳实践]]：Hermes 笔记管理方法论
+- [[docs/API测试报告]]：三大 API 首次全面测试记录
 
 ## 📝 工作流
 
