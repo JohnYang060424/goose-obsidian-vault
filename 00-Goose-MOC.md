@@ -18,6 +18,7 @@
 - [[docs/无头主机显示修复]]：Dummy Driver 配置
 - [[docs/Hermes-笔记管理最佳实践]]：Hermes 笔记管理方法论
 - [[docs/API测试报告]]：三大 API 首次全面测试记录
+- [[docs/2026欧美流行金曲Top50任务]]：音乐下载与 OSS 上传任务
 
 ## 📝 工作流
 
