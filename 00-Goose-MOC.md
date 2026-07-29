@@ -2,6 +2,9 @@
 
 > **第一原则**：所有文件仅存于 `/home/john/yang_goose_files`
 
+## 🆕 关于 Goose
+- [[关于 Goose]]：Goose Agent 自我介绍与配置概览
+
 ## 🔑 核心 API 配置
 
 > 从 Hermes Vault 移植，三大重要接口
@@ -25,4 +28,3 @@
 - 笔记同步：本地 Git 自动 Push
 - 远程访问：NoMachine / XRDP
 - 代理访问：Sing-box VLESS 127.0.0.1:1080
-
